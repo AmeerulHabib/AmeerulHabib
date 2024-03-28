@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ameerul Habib</h1>
 <h3 align="center">A passionate 3rd year student who interest in software development and network engineer</h3>
 
-- 🔭 I’m currently working on [PSM](test)
+- 🔭 I’m currently working on [Final Year Project for Pet Hotel and Boarding System](test)
 
-- 🌱 I’m currently learning **Laravel framework**
+- 🌱 I’m currently learning **Laravel framework and Flutter framework**
 
 - 👨‍💻 All of my projects are available at [www.test](www.test)
 
