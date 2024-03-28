@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **Laravel framework and Flutter framework**
 
-- 👨‍💻 All of my projects are available at [www.test](www.test)
+- 👨‍💻 All of my projects are available at [in progress](www.test)
 
-- 📝 I regularly write articles on [my blog](my blog)
+- 📝 I regularly write articles on [in progress](my blog)
 
 - 💬 Ask me about **C**
 
 - 📫 How to reach me **ameerul.habib@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [in progress](resume link)
 
-- ⚡ Fun fact **I think I am**
+- ⚡ Fun fact **I think I am still learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
